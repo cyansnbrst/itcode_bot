@@ -1,3 +1,2 @@
-# Aiogram bot template
-This is simple aiogram's telegram bot template.
-Feel free to share.
+# Random dog bot
+This bot sends random dog gifs/vids/pics for any command you type
